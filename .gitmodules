@@ -3,4 +3,4 @@
 	url = https://github.com/keplerproject/luafilesystem.git
 [submodule "kpvcrlib/crengine"]
 	path = thirdparty/kpvcrlib/crengine
-	url = https://github.com/koreader/crengine.git
+	url = git@github.com:xelxebar/crengine.git
